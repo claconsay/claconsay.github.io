@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Chris Laconsay
 description: Builder by day, breaker by night
+github:
+  is_project_page: false
