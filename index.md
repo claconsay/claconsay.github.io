@@ -1,2 +1,1 @@
-## Chris Laconsay
-### Coming Soon
+## More content will be coming soon
